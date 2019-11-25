@@ -1,0 +1,3 @@
+/*
+Fud graph which displays the fud according to the matrix
+ */

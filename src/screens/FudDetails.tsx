@@ -1,0 +1,3 @@
+/*
+Details page for each restaurant
+ */
